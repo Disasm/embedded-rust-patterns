@@ -11,3 +11,6 @@
 * "Impossible error" type
 * Pin traits
 * macro-based code generation
+* GPIO pin downgrade
+* splitting UART peripheral for Tx+Rx
+* pin configuration inside the peripheral vs outside
