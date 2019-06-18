@@ -4,7 +4,7 @@
 
 ## General
 * `PhantomData<*const ()>`
-* `#![deny(warnings)]`
+* `#![deny(warnings)]`: [known anti-pattern](https://github.com/rust-unofficial/patterns/blob/master/anti_patterns/deny-warnings.md).
 
 ## HAL and drivers
 * Extension traits
